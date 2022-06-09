@@ -4,6 +4,7 @@ Made during the UIUC SOSP 2022
 Uses the '!' prefix. Can do searches using multiple search engines.
 
 Commands:
+
 !google "{text you want to search}" {page number}
 
 !bing "{text you want to search}" 
